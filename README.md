@@ -20,7 +20,7 @@ Here is the link to my application: [Web API: Code Quiz](https://nasgenius.githu
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 [GitHub Repository](https://github.com/NasGenius/homework-week04)
-[Web API: Web Quiz]()
+[Web API: Web Quiz](https://nasgenius.github.io/homework-week04/)
 
 ## Prerequisites
 
