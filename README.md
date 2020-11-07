@@ -32,20 +32,30 @@ HTML and CSS and Javascript documents create a quiz with multiple choice questio
 This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document.
 This project utilizes the use of appending HTML pages.
 
-![Password-Generator-Photo](https://github.com/NasGenius/homework-week03/blob/main/assets/Screen%20Shot%202020-10-31%20at%207.27.50%20PM.png)
+![Code-Quiz-Photo](https://github.com/NasGenius/homework-week04/blob/main/assets/Screen%20Shot%202020-11-07%20at%203.10.04%20PM.png)
 
 ## This project has the following features:
 
-- A generate button
-  - This will send the user a series of prompts and confirms
-  - After user data is collected, a random password will be generated using Javascript
+- A Quiz start button
+  - This will be a timed quiz.
+  - You will have a total of 75 seconds to complete the quiz.
 
-![Button-Generator-Photo](https://github.com/NasGenius/homework-week03/blob/main/assets/Screen%20Shot%202020-10-31%20at%207.28.08%20PM.png)
-
-- A Textarea
-  - This textarea will display the users password once it is generated
+![Question-Example-Photo](https://github.com/NasGenius/homework-week04/blob/main/assets/Screen%20Shot%202020-11-07%20at%203.10.21%20PM.png)
   
-![Textarea-Photo](https://github.com/NasGenius/homework-week03/blob/main/assets/Screen%20Shot%202020-10-31%20at%207.28.31%20PM.png)
+![Answer-Question-Photo](https://github.com/NasGenius/homework-week04/blob/main/assets/Screen%20Shot%202020-11-07%20at%203.10.40%20PM.png)
+
+- An appended HTML page that features questions, and multiple choice answers
+  - If questions are answered incorrectly, 5 seconds are deducted off remaining time
+  - Answers are recording using an event listener, "click" and tracks correct answers
+
+![Submit-Answers-Photo](https://github.com/NasGenius/homework-week04/blob/main/assets/Screen%20Shot%202020-11-07%20at%203.11.09%20PM.png)
+
+- A Highscores HTML
+  - This a list summary of intials and final scores
+  - Clear button resets the page and local storage
+  - Go back button travels to the start of the quiz
+
+![View-Highscores-Photo](https://github.com/NasGenius/homework-week04/blob/main/assets/Screen%20Shot%202020-11-07%20at%203.11.41%20PM.png)
 
 ## Psuedo Code and Project Requirements:
 
@@ -92,6 +102,10 @@ Two Javascript Page * Contains: * Variables, including arrays with object * Even
 
 ## Authors
 <b> Billy Gray </b>
+
+## Final Thoughts
+
+I came across some issues with my local environment and I was unable to make as many commits as I normally do. The homework in itself was challenging. Ultimately, I did well with the requirements was given.
 
 ## Credits
 
