@@ -105,7 +105,7 @@ Two Javascript Page * Contains: * Variables, including arrays with object * Even
 
 ## Final Thoughts
 
-I came across some issues with my local environment and I was unable to make as many commits as I normally do. The homework in itself was challenging. Ultimately, I did well with the requirements was given.
+I came across some issues with my local environment and I was unable to make as many commits as I normally do. I had an issue trying to do commits and then pushing my updates from my local to GitHub. Long story short it is still not fixed but I will try to figure it out before the next homework is due. The homework in itself was challenging. Ultimately, I did well with the requirements was given.
 
 ## Credits
 
