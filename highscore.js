@@ -1,4 +1,4 @@
-// Billy Gray Homework-4 Code Quiz 
+// Billy Gray Homework-04 Web API: Code Quiz 
 
 // Declared variables
 
