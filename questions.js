@@ -1,5 +1,7 @@
 // Billy Gray  Homework-4 Code Quiz 
 
+// Forgot to format code :-(
+
 // Var with array and object for questions 
 
 var questions = [
